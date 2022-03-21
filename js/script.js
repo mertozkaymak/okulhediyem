@@ -1,6 +1,6 @@
 (function($){
 
-    let mainFolder = "https://dev.digitalfikirler.com/okulhediyem";
+    let mainFolder = "***/okulhediyem";
     let OkulHediyem = {
         map: `${ mainFolder }/router.php`,
         guid: "",
